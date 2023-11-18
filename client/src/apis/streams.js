@@ -2,5 +2,5 @@ import axios from 'axios';
 
 
 export default axios.create({
-   baseURL: 'https://livetest.eastasia.cloudapp.azure.com:3001' 
+   baseURL: 'https://my-json-server.typicode.com/ankitrajcs13/livestream' 
 });
